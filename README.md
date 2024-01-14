@@ -5,11 +5,9 @@ Welcome to Space Invaders, a classic arcade game brought to life using Python wi
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
-- [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [How to Play](#how-to-play)
 - [License](#license)
 
 ## Description
@@ -23,8 +21,15 @@ Space Invaders is a simple yet exciting game where the player controls a spacesh
 - Smooth controls for spaceship movement and shooting.
 - Increasing difficulty level as the game progresses.
 
+## Installation
+
+1. Clone the repository to your local machine using Git. Open your terminal and run the following command:
+   ```bash
+   git clone https://github.com/your-username/Space Invaders.git
+   ```
+   
 ## How to Play
 
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/space-invaders.git
+
+
+
