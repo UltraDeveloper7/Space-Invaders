@@ -41,7 +41,7 @@ pip install winsound
    git clone https://github.com/UltraDeveloper7/Space-Invaders.git
    ```
 ## Download through ZIP file:
-1. Download the project as a zip file. You can do this by clicking on the "Code" button on the [GitHub repository page](https://github.com/your-username/space-invaders) and selecting "Download ZIP."
+1. Download the project as a zip file. You can do this by clicking on the "Code" button on the [GitHub repository page](https://github.com/UltraDeveloper7/Space-Invaders) and selecting "Download ZIP."
 2. Extract the downloaded zip file to a location of your choice.
 3. Open your terminal or command prompt and navigate to the extracted directory.
    ```bash
