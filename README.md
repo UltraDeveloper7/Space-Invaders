@@ -5,8 +5,8 @@ Welcome to Space Invaders, a classic arcade game brought to life using Python wi
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
-- [Installation](#installation)
 - [Requirements](#requirements)
+- [Installation](#installation)
 - [How to Play](#how-to-play)
 - [License](#license)
 
@@ -53,7 +53,15 @@ pip install winsound
    ```
    
 ## How to Play
+Embark on your space journey with style! 🚀
+1. Begin by entering your name and gracefully press `Enter` to embark on this cosmic adventure.
+2. Ready to face the challenge? Press `F` to launch your spaceship into the vastness of space, ready to take on the incoming comets.
+3. Seeking guidance or just curious? Delve into the details by pressing `S` to unfold the instructions.
+4. Amidst the cosmic chaos, you may need a moment to gather your cosmic wits. Fear not! Press `P` to gracefully pause the game and resume when you're ready.
+5. Should the cosmic challenge become too intense, or if you've proven your cosmic prowess, press `Q` to gracefully exit the game.
+And now, your celestial mission: Intercept a magnificent total of 25 comets to achieve cosmic victory! May the stars align in your favor, brave space defender! 🌌🛸
 
-
+## License
+This project is licensed under the [MIT License](LICENSE). You can find the full text of the license [here](https://opensource.org/licenses/MIT).
 
 
