@@ -7,8 +7,8 @@ Welcome to Space Invaders, a classic arcade game brought to life using Python wi
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
- - [Download through Git](#download-through-git)
- - [Download through ZIP file](#download-through-zip-file)
+  - [Download through Git](#download-through-git)
+  - [Download through ZIP file](#download-through-zip-file)
 - [How to Play](#how-to-play)
 - [License](#license)
 
